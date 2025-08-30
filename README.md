@@ -1,5 +1,5 @@
-# Project-1_Data-Science-1_Fall-2025
-My First Go-Around with Github
+# From Paper Audits to Data Science
+Why would a community college registrar in a rural town pursue a degree in data science? Find out why and why all higher education professionals should become more data science literate!
 
 ## About Me
 Hi All! My name and Rachel, and I'm new to data science. As a higher education professional, I have sought to make data-driven decisions to best support students.
