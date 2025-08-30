@@ -1,13 +1,15 @@
 # From Paper Audits to Data Science
+***
 Why would a community college registrar in a rural town pursue a degree in data science? Find out why and why all higher education professionals should become more data science literate!
 
-## About Me
-Hi All! My name and Rachel, and I'm new to data science. As a higher education professional, I have sought to make data-driven decisions to best support students.
+## Plan
+In the future, I plan to include a sample data file and a [Jupyter](https://jupyter.org/) notebook to this repository. 
 
-## Why Data Science?
-I was hired as the Registrar while the College was still doing degree audits by hand with pen and paper. Months before my hiring, the college entered into an agreement with Ellucian to implement Degree Works. I attended hours, upon days, upon weeks on implementation meetings to set-up this product. I was SO LOST! But eventually, through the help of my team and our great Degree Works consultant, we ended up with a great product. Now I work to maintain the "scribe" which is Degree Works programming language used to automatic degree audits by simply entering a student's ID number. Never in my life did I imagine I would be so "techy," but thats the way the world is going. If I am going to best serve students and advance my career, becoming data science literate is critical.
-  
-Recently my superviser attended a meeting with all the chief academic officers from every Mississippi Community College. MSU's Applied Data Science program was mentioned, and my superviser thought it would be a good fit for my interests. After looking into the program and seeing how supportive MSU is of their students, I decided to go for it! 😂
+## About Me
+Hi All! My name and Rachel, and I'm new to data science. As a higher education professional, I have sought to make data-driven decisions to best support students. Now it's time to take it to the **next level**! I hope to
+  *Improve administrative efficency at the institutional level
+  *Use data to be an advocate for community colleges
+  *Advance my career
 
 ## Practice Uploading an Image
 *Below is an image I used in a Canvas course designed to train employees on the importance of FERPA laws.*
