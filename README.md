@@ -11,4 +11,4 @@ Recently my superviser attended a meeting with all the chief academic officers f
 
 ## Practice Uploading an Image
 *Below is an image I used in a Canvas course designed to train employees on the importance of FERPA laws.*
-![alt text](image_https://github.com/rwaysteele-pixel/Project-1_Data-Science-1_Fall-2025/issues/1#issue-3369078171)
+![alt text](
